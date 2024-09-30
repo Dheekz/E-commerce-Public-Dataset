@@ -78,6 +78,7 @@ You will be able to see the visualizations of RFM segmentation and analyze custo
 
 ### Project Structure
 submission
+
 ├───dashboard
 
 | ├───main_data.csv
