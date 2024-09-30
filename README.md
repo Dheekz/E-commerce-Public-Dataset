@@ -1,39 +1,45 @@
 # E-Commerce Data Analysis Project
+
 This project focuses on performing an RFM (Recency, Frequency, Monetary) analysis and other insights from an e-commerce dataset. The dataset used is publicly available and contains customer orders, payments, and other transactional details.
 
-### Table of Contents
-Introduction
-Features
-Installation
-Usage
-Project Structure
-Dataset
-RFM Analysis
-Contributing
-License
-### Introduction
-This project uses a public dataset to analyze e-commerce data with a focus on customer segmentation through RFM analysis. The analysis helps businesses understand customer behavior, optimize marketing strategies, and increase sales by identifying loyal, at-risk, and potential churn customers.
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Dataset](#dataset)
+- [RFM Analysis](#rfm-analysis)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This project uses a public dataset to analyze e-commerce data with a focus on customer segmentation through **RFM analysis**. The analysis helps businesses understand customer behavior, optimize marketing strategies, and increase sales by identifying loyal, at-risk, and potential churn customers.
 
 The key objectives of the project:
+1. Analyze customer transactions.
+2. Perform RFM segmentation.
+3. Visualize the results using Streamlit.
+4. Identify potential marketing strategies based on customer segments.
 
-Analyze customer transactions.
-Perform RFM segmentation.
-Visualize the results using Streamlit.
-Identify potential marketing strategies based on customer segments.
-### Features
-Merge customer, order, and payment data to generate meaningful insights.
-Perform RFM segmentation to group customers based on their purchase behavior.
-Visualize the customer segments for Recency, Frequency, and Monetary categories using interactive charts with Streamlit.
-Identify segments for loyal, frequent, or high-value customers.
-### Installation
+## Features
+
+- Merge customer, order, and payment data to generate meaningful insights.
+- Perform **RFM segmentation** to group customers based on their purchase behavior.
+- Visualize the customer segments for Recency, Frequency, and Monetary categories using interactive charts with Streamlit.
+- Identify segments for loyal, frequent, or high-value customers.
+
+## Installation
+
 To set up and run the project on your local machine, follow the steps below:
 
 ### 1. Clone the repository:
 First, clone the project from GitHub by running the following command:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/ecommerce-data-analysis.git
+
 ### 2. Navigate to the project directory:
 bash
 Copy code
